@@ -199,8 +199,8 @@ Optional Verbose Error messages
 .. code-block:: javascript
 
   { 
-    “message”: “human readable error message”,
-    “moreInfo” : “http://api.facilityregistry.org/errors/12345"
+    "message": "human readable error message",
+    "moreInfo" : "http://api.facilityregistry.org/errors/12345"
   }
 
 Adding / Updating Facilities
